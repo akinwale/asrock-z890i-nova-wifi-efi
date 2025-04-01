@@ -36,6 +36,10 @@ EFI for the ASRock Z890I Nova WiFi with OpenCore 1.0.4.
 * Intel BE200 Wi-Fi NOT working.
 * Realtek RTL8126 5G Ethernet NOT working.
 
+![About](https://github.com/user-attachments/assets/38cecbb8-f030-4624-92df-15f2d6b59619)
+
+![Geekbench - no perf optimisations](https://github.com/user-attachments/assets/e10c087a-4b0e-4e16-9bac-e96fa8511059)
+
 ## USB Port Mapping
 Ports mapped using USBToolBox on Windows.
 
