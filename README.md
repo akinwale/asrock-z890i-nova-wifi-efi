@@ -69,7 +69,7 @@ Ports mapped using USBToolBox on Windows.
 | Motherboard       | ASRock Z890I Nova WiFi                          |
 | RAM               | 96GB (2 x 48GB) G.SKILL Ripjaws S5 @ 6400MT/s   |
 | GPU               | ASRock AMD Radeon RX 6600 XT Challenger ITX 8GB |
-| OS Drive          | WD_BLACK SN850X 1TB                             |
+| OS Drive          | TEAMGROUP MP44L 1TB                             |
 | Audio             | Realtek ALC4080                                 |
 | Wi-Fi / Bluetooth | Intel Wi-Fi 7 BE200 (Wi-Fi not working)         |
 
