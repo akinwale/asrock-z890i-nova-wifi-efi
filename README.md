@@ -74,5 +74,5 @@ Ports mapped using USBToolBox on Windows.
 | Wi-Fi / Bluetooth | Intel Wi-Fi 7 BE200 (Wi-Fi not working)         |
 
 
-### Disclaimer
+## Disclaimer
 By using this EFI, you acknowledge it is provided "as is" without warranties of any kind. The developers and associated parties are not liable for any damage to equipment, data loss, or other consequences arising from its use. It is your responsibility to ensure the EFI does not harm your system and to back up data before use. By using this EFI, you agree to use it at your own risk.
