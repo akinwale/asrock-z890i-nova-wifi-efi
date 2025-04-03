@@ -8,6 +8,7 @@ EFI for the ASRock Z890I Nova WiFi with OpenCore 1.0.4.
 ## Kexts
 * AppleALC.kext
 * BlueToolFixup.kext
+* CpuTopologyRebuild.kext
 * IntelBluetoothFirmware.kext
 * IntelBTPatcher.kext
 * itlwm.kext
@@ -38,7 +39,7 @@ EFI for the ASRock Z890I Nova WiFi with OpenCore 1.0.4.
 
 ![About](https://github.com/user-attachments/assets/38cecbb8-f030-4624-92df-15f2d6b59619)
 
-![Geekbench - no perf optimisations](https://github.com/user-attachments/assets/e10c087a-4b0e-4e16-9bac-e96fa8511059)
+![Geekbench](https://github.com/user-attachments/assets/f9b986a6-fdde-40f0-9754-e6732491f501)
 
 ## USB Port Mapping
 Ports mapped using USBToolBox on Windows.
